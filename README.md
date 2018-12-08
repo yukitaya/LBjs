@@ -1,1 +1,1 @@
-# LBjs
+# Sansan with LoopBack API
